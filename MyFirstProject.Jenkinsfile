@@ -1,4 +1,4 @@
-hdxtsPipeline {
+Pipeline {
     dockerConfig = [
       makeDirs: [ './integration_test/build/reports' ],
       reportFile: 'index.html',
